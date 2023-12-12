@@ -39,14 +39,13 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![Alt text](image.png)
+![image](https://github.com/gokulprakash23013924/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231472/08bb4cd7-8707-496a-aa61-38689b881a65)
+![image](https://github.com/gokulprakash23013924/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231472/6b6a66eb-8123-4bbc-8249-8dc58ed78cc7)
+![image](https://github.com/gokulprakash23013924/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231472/400075fd-21ac-4524-aaff-11c575073919)
 
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
 
 ## Output:
-![Alt text](image-3.png)
+![image](https://github.com/gokulprakash23013924/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231472/2acdda6c-3082-4d30-9a3b-4c9f834592cc)
 
 ### Name:GOKUL PRAKASH M
 ### Register Number:23013924
